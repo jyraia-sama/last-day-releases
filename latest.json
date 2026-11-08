@@ -1,5 +1,1 @@
-{
-  "version": "0.1.2",
-  "pck": "https://raw.githubusercontent.com/jyraia-sama/last-day-releases/main/builds/LastDay-0.1.2.pck",
-  "notes": "Réparations prioritaires la nuit, alerte quand il manque du bois, version affichée en jeu, nouvelle mise à jour automatique."
-}
+{"version":"0.1.3","pck":"https://raw.githubusercontent.com/jyraia-sama/last-day-releases/main/builds/LastDay-0.1.3.pck","notes":"Menu principal anime, metiers et traits, sauvegardes nommees illimitees, options (plein ecran, vitesse camera)."}
